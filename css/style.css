@@ -208,6 +208,7 @@ img {
   object-fit: cover; /* garante que a imagem se ajuste sem distorcer */
   transition: transform 0.4s ease;
   overflow: hidden;
+  cursor: pointer;
 }
 
 .elev:hover {
