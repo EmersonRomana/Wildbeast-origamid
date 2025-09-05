@@ -43,7 +43,7 @@ técnicas aprendidas no curso.
 - **style.css** → Estilização personalizada com Grid, Flexbox e
   animações.
 
-<img src="./img/page.jpg">
+<img src="./img/page.png">
 
 ## 👨‍💻 Autor
 
